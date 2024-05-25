@@ -659,7 +659,7 @@ In addition to accepting **exactly**1CELO in batches on the CELO chain on June 1
 
 **Extra evidence**
 
-Batch13 and Batch12 should belong to the same cluster, but have slightly different operations. In addition to accepting CELO in batches on the CELO chain on June 14th, **This batch of addresses also accepted approximately 0.23CELO(0.2$) sent by Binance on the Celochain, and then use merkly to mint 1 wmerk** on around Jan-29-2024 05:15:09 PM +UTC
+Batch23 and Batch22 should belong to the same cluster, but have slightly different operations. In addition to accepting CELO in batches on the CELO chain on June 14th, **This batch of addresses also accepted approximately 0.23CELO(0.2$) sent by Binance on the Celochain, and then use merkly to mint 1 wmerk** on around Jan-29-2024 05:15:09 PM +UTC
 
 **Data at a glance**
 ![batch23](image/batch23.png)
