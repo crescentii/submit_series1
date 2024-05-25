@@ -319,6 +319,8 @@ When verifying the evidence I provided, I used random sampling to verify, and pa
 ---
 ## Sybil address batches and extra evidence
 
+---
+
 **batch31**
 ```
 0xb75699194ead0d09aeafa708c7310d7d2d34a762
