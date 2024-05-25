@@ -909,7 +909,7 @@ In addition to accepting CELO in batches on the CELO chain on June 12th. **This 
 
 **Extra evidence**
 
-Batch19 is liking batch13. In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.12CELO(0.1$) sent by Binance on around Nov-18-2023 04:03:47 PM +UTC and use merkly to bridge gas(0.05$) after about 35days**
+Batch19 is liking batch13. In addition to accepting CELO in batches on the CELO chain on June 12th. **This batch of addresses also accepted approximately 0.12CELO(0.1$) sent by Binance on around Dec-23-2023 09:24:59 PM +UTC and use merkly to bridge gas(0.05$) after about 35days**
 
 **Data at a glance**
 ![batch19](image/batch19.png)
